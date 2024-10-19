@@ -1,0 +1,32 @@
+/** language **/
+.language .nice-select{
+    height: auto;
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 700;
+    padding: 7px 30px;
+    padding-right: 50px;
+    color: var(--bs-white);
+    border: none !important;
+    background-color: var(--primary-color);
+}
+.language .nice-select{
+    color: var(--primary-color);
+    background-color: var(--bs-white);
+}
+.language .nice-select .option{
+    color: #000;
+}
+.language .nice-select:after{
+    width: 7px;
+    height: 7px;
+    border-bottom: 2px solid var(--bs-white);
+    border-right: 2px solid var(--bs-white);
+    right: 30px;
+}
+.language .nice-select:after{
+    border-color: var(--primary-color);
+}
+.language .nice-select .list{
+    width: 142px;
+}

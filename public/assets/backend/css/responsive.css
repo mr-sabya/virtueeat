@@ -1,0 +1,1144 @@
+@media only screen and (max-width: 1400px){
+    .history-left-image{
+        margin-left: 30px;
+        max-width: 400px;
+    }
+    .history-left-image .shape-border{
+        left: -25px;
+    }
+    .pad_header_box .logo_box{
+        margin-bottom: 140px;
+    }
+}
+@media only screen and (max-width: 1300px){
+    .services-section{
+        margin: 0;
+        border-radius: 0;
+        margin-bottom: 60px;
+    }
+    .new-patients{
+        margin: 0;
+    }
+    .patient_form{
+        margin: 0;
+        border-radius: 0;
+        margin-bottom: 40px;
+    }
+    .service-block-one{
+        padding: 30px 20px;
+    }
+}
+@media only screen and (max-width: 1199px){
+    .order_tracking_info_box{
+        display: block;
+    }
+    .order_take_photo_box.oreder_box{
+        display: none;
+    }
+    .feature-block-one .feature-content{
+        max-width: 220px;
+    }
+    .section-title-two h2,
+    .section-title-one h2{
+        font-size: 40px;
+        line-height: 50px;
+        padding-bottom: 15px;
+    }
+    .history-left-image {
+        position: relative;
+        max-width: 460px;
+        width: 100%;
+        margin: 0 auto;
+        margin-bottom: 60px;
+    }
+    .history-right-content{
+        margin: 0;
+    }
+    .vehicle_block_one{
+        margin-bottom: 30px;
+    }
+    .documents_box_outerbox{
+        margin-bottom: 30px;
+    }
+}
+@media only screen and (max-width: 1139px){
+    .about-right-image{
+        max-width: 420px;
+    }
+    .visit-block-one {
+        max-width: inherit;
+        width: inherit;
+        margin: 20px 30px;
+        padding: 40px;
+        float: none;
+    }
+    .visit-block-one h4{
+        margin-bottom: 20px;
+    }
+    .visit-block-one.style_two{
+        float: none;
+    }
+    .page-title-inner .title h1{
+        font-size: 50px;
+        line-height: 60px;
+    }
+    .page-title-inner .link-btn{
+        margin-top: 20px;
+    }
+    .therapy-block-one{
+        background-image: none !important;
+    }
+    .tex_pad_page{
+        padding: 20px;
+    }
+    .tex_pad_page .pad_box{
+        padding: 25px;
+    }
+    .pad_header_box .logo_box{
+        margin-bottom: 70px;
+    }
+    .admin_panel_outerbox .logo_box{
+        gap: 30px;
+    }
+}
+@media only screen and (max-width: 1100px){
+    .user_login_deshboard .user_login_box{
+        padding: 5px;
+    }
+    .user_login_box .user_info{
+        display: none;
+    }
+    .user_login_deshboard .user_login_box:after{
+        display: none;
+    }
+    .language-switcher .nice-select{
+        width: auto;
+        padding: 10px 20px;
+    }
+    .admin_company_info{
+        padding: 5px;
+        gap: 5px;
+    }
+    .language-switcher .nice-select::after{
+        display: none;
+    }
+    .active .admin_panel_outerbox,
+    .admin_panel_outerbox{
+        border-radius: 0;
+    }
+    .user_login_deshboard .admin_panel_deshboard_menu{
+        right: inherit;
+        left: 0;
+        top: 117%;
+    }
+}
+@media only screen and (max-width: 999px){
+    #sidebar{
+        width: 285px;
+    }
+    .admin_panel_menu_box{
+        margin-top: 0;
+    }
+    #sidebar .admin_menu{
+        display: block;
+        margin-top: 50px;
+    }
+    #sidebar .language-switcher {
+        height: 50px;
+    }
+    #sidebar .admin_menu li{
+        height: 50px;
+    }
+    #sidebar .language-switcher .nice-select {
+        height: 50px;
+        padding: 5px 20px;
+    }
+    .admin_panel_menu_box li a{
+        gap: 10px;
+    }
+    #sidebar .admin_menu li .icon_box,
+    .admin_panel_menu_box li a i {
+        width: 40px;
+        height: 40px;
+        font-size: 20px;
+        line-height: 46px;
+        border-radius: 20px;
+    }
+    #sidebar .admin_menu li .icon_box{
+        line-height: 40px;
+    }
+    #sidebar .admin_menu li .icon_box img{
+        transform: scale(.75);
+    }
+    #sidebar .admin_menu .nice-select .list li{
+        padding: 0px 20px;
+        border-radius: 0;
+        margin-bottom: 0;
+    }    
+}
+@media only screen and (max-width: 991px){
+    .admin_panel_menu_box{
+        margin-top: 0px;
+    }
+    .main_banner_right .banner_image{
+        order: 1;
+        margin: 0 auto;
+        margin-bottom: 40px;
+    }
+    .main_banner .colmun-content{
+        order: 2;
+        text-align: center;
+    }
+    .contact-info-btn a{
+        justify-content: center;
+    }
+    .main_header_menu{
+        order: 2;
+    }
+    .about_section .content-column{
+        order: 2;
+    }
+    .about_section .about-left-content{
+        text-align: center;
+    }
+    .section-title-one h2{
+        display: inline-block;
+    }
+    .section-title-one h2:before{
+        left: calc(50% - 141px);
+    }
+    .about-right-image{
+        margin: 0 auto;
+        margin-bottom: 40px;
+    }
+    .new-patients .content-column{
+        order: 2;
+    }
+    .new-patient-image{
+        margin: 0 auto;
+        margin-bottom: 40px;
+    }
+    .new-patient-left{
+        max-width: 100%;
+        text-align: center;
+    }
+    .page-title-inner .title h1 {
+        font-size: 38px;
+        line-height: 47px;
+    }
+    .page-title-inner .title{
+        padding: 130px 0px;
+    }
+    .page_banner:before{
+        height: 390px;
+    }
+    .page_banner.style_three .page-title-inner .title {
+        padding: 110px 30px;
+    }
+    .page_title-inner{
+        display: block;
+        padding: 0px 20px;
+    }    
+    .page_title-inner h2{
+        margin-bottom: 20px;
+    } 
+    .patient_form{
+        padding: 50px 15px;
+    }
+    .financial_information{
+        margin: 0px 12px;
+    }
+    .financial-information-inner{
+        display: block;
+    }    
+    .financial-information-inner .left-content-box{
+        margin-bottom: 30px;
+    }
+    .main_banner.style_two .main_banner_right .banner_image{
+        margin-top: 70px;
+        margin-bottom: 40px;
+    }
+    .therapy-block-one .content-box{
+        margin-left: 0;
+        margin-top: 40px;
+    }
+    .therapy-block-one{
+        border-radius: 0;
+    }
+    .therapy-block-one .therpay-inner{
+        padding: 0;
+    }
+    .therapy-block-one .colmun-content{
+        order: 2;
+    }
+    .therapy-block-one .colmun-image{
+        order: 1;
+    }
+    .page-title-inner.style_four .title {
+        padding: 80px 30px 90px;
+    }
+    .admin_panel_sidebar{
+        max-width: 100%;
+    }
+    #sidebar{
+        max-height: 900px;
+        height: 100%;
+        overflow-y: auto;
+    }
+    .text_info_title_box .sec_title{
+        margin-bottom: 10px;
+    }    
+}
+@media only screen and (max-width: 860px){
+    .text_info_title_box{
+        display: block;
+    }
+    .text_info_title_box.style_2 .sec_title{
+        margin-bottom: 8px;
+    }
+    .info_right_side_box .form-group{
+        margin-bottom: 0;
+    }
+    .food_item_left{
+        gap: 10px;
+    }
+    .food_menu_item{
+        gap: 5px;
+    }
+    .food_item_right{
+        gap: 5px;
+    }
+}
+@media only screen and (max-width: 767px){    
+    #adminSidebar + #adminContent {
+        margin-left: 0;
+    }
+    #adminSidebar{
+        margin-top: 90px;
+        z-index: 99;
+    }
+    .header_top_inner{
+        padding: 10px 0px;
+    }
+    .stay-banner{
+        margin-bottom: 60px;
+    }    
+    .main_banner_right .banner_image{
+        max-width: 350px;
+        margin: 0 auto;
+        margin-bottom: 40px;
+    }
+    .main_banner_left h1{
+        font-size: 50px;
+        line-height: 60px;
+    }
+    .feature-block-one{
+        margin-bottom: 40px;
+    }
+    .page-title-inner .title{
+        padding: 50px 0px;
+        margin-right: 0;
+    }
+    .page-title-inner .bg-layer-2{
+        background-size: cover;
+    }
+    .page_banner{
+        padding: 150px 0px 0px;
+    }
+    .page_banner:before{
+        height: 320px;
+    }
+    .page_banner .stay-banner {
+        margin-bottom: 30px;
+    }
+    .page-title-inner .title h1{
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .history_section{
+        padding-top: 80px;
+        padding-bottom: 50px;
+    }
+    .history-left-image{
+        max-width: 380px;
+    }
+    .our_mission{
+        margin: 0 15px;
+    }
+    .visit-us{
+        margin: 0 15px;
+    }
+    .page_banner.style_three .page-title-inner .title{
+        margin-left: 0;
+    }
+    .page_banner.style_three{
+        padding-bottom: 30px;
+    }
+    .page_banner.style_three .container{
+        padding: 0;
+    }
+    .page_banner.style_three .page-title-inner{
+        margin: 0;
+    }
+    .page_banner.style_three .page-title-inner .title{
+        background-size: cover;
+    }
+    .page_banner.style_three .page-title-inner .bg-layer-2{
+        right: 0;
+        background-size: cover;
+    }
+    .page_banner.style_three{
+        margin-bottom: 20px;
+    }
+    .page_banner.style_three .page-title-inner .title{
+        padding: 100px 0px;
+    }
+    .atoz_services{
+        margin: 60px 15px 0px;
+    }
+    .newsletter_section{
+        margin: 0px 20px 20px;
+    }
+    .our_location_content{
+        margin: 0;
+    }
+    .section-title-one h2:before{
+        left: 0;
+    }
+    .page-title-inner{
+        margin: 0;
+    }
+    .page-title-inner .title{
+        background-size: cover;
+    }
+    .analytics_outer_box{
+        gap: 10px;
+        margin-bottom: 10px;
+    }
+    .chart_outer_box .chart_image{
+        margin-bottom: 10px;
+    }
+    .create_account_box{
+        margin-left:20px;
+        margin-right: 20px;
+    }
+    .order_outer_box{
+        background-image: none;
+        background-color: #fff;
+    }
+    .create_account_box #loginForm.signup_form input{
+        padding-left: 40%;
+    }
+    .work_shift_outer_box.add_account_info{
+        left: 20px;
+        width: auto;
+    }
+    .work_shift_outer_box.add_food_menu{
+        max-height: 750px;
+        height: 100%;
+        overflow-x: hidden;
+        overflow-y: auto;
+    }
+    .info_right_side_box{
+        display: block;
+    }
+    .food_search_form{
+        margin-bottom: 15px;
+    }
+}
+@media only screen and (max-width: 650px){
+    .therapy-block-one .content-box .button_box{
+        display: block;
+    }
+    .therapy-block-one .content-box .button_box h5{
+        margin-bottom: 10px;
+    }
+    .order_lower_box{
+        display: block;
+    }
+    .order_lower_box .left_side{
+        margin-bottom: 10px;
+    }
+    .order_header_title{
+        display: block;
+    }
+    .admin_panel_outerbox .logo_box {
+        width: 100%;
+        display: inline-flex;
+        justify-content: space-between;
+    }
+    #openBtn{
+        margin-top: 0px;
+    }
+    #admin_analysis_chart{
+        height: 160px;
+    }
+    #sidebar .admin_menu{
+        margin-top: 10px;
+    }
+    .hide_user_login{
+        display: block;
+        margin-top: 70px;
+    }
+    .hide_user_login .user_login_box{
+        padding: 5px;
+        width: 100%;
+        background-color: #fff;
+    }
+    .hide_user_login .user_login_box .user_image{
+        width: 40px;
+        height: 40px;
+        border-radius: 20px;
+        text-align: center;
+        line-height: 40px;
+    }
+    .hide_user_login .user_login_box .user_name h6{
+        font-size: 14px;
+        line-height: 20px;
+        font-weight: 600;
+        color: #222;
+    }
+    .user_login_deshboard .dropdown_btn{
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        text-align: center;
+        margin-left: 15px;
+    }
+    .hide_user_login .user_login_box .user_rating{
+        padding: 2px 5px;
+    }
+    .user_login_deshboard .admin_panel_deshboard_menu{
+        min-width: 240px;
+        width: 100%;
+        top: 117%;
+        padding: 5px 10px;
+        border-radius: 20px;
+    }
+    .user_login_deshboard .admin_panel_deshboard_menu ul li{
+        border-bottom: none;
+        margin: 5px 0px;
+    }
+    .user_login_deshboard .admin_panel_deshboard_menu ul li a{
+        width: 100%;
+        padding: 5px;
+        margin-bottom: 0;
+    }
+    .user_login_deshboard .admin_panel_deshboard_menu ul li .icon_box{
+        width: 40px;
+        height: 40px;
+        text-align: center;
+        line-height: 40px;
+    }
+    .create_account_box #loginForm.signup_form .check_box label{
+        text-align: left;
+        left: 0;
+    }
+    .create_account_box #loginForm.signup_form .check_box label br{
+        display: none;
+    }
+}
+@media only screen and (max-width: 600px){
+    .our-mission-inner{
+        display: block;
+    }
+    .mission-left-content{
+        margin-bottom: 30px;
+    }
+    .mission-right-icon{
+        text-align: center;
+    }
+    .visit-left-block{
+        padding: 0;
+    }
+    .visit-right-block{
+        padding: 0;
+    }
+    .visit-us .section-title-two h2{
+        margin-bottom: 20px;
+    }
+    .about-right-image{
+        max-width: 300px;
+    }
+    .about-right-image .shape-one{
+        left: -60px;
+    }
+    .about-right-image .shape-two {
+        bottom: 60px;
+        left: 0px;
+    }
+    .section-title-one h2:before{
+        left: 0;
+    }
+    .page-title-inner .text{
+        font-size: 14px;
+        line-height: 21px;
+    }    
+    .chart_outer_box .chart_image img{
+        width: inherit;
+    }    
+    .create_account_box #loginForm.signup_form input::placeholder{
+        color: #fff;
+    }
+    .add_new_vehicle a{
+        position: relative;
+        top: 0;
+    }
+    .work_shift_outer_box.schdule_box{
+        max-width: 100%;
+        width: 100%;
+        overflow-x: auto;
+    }
+    .work_shift_outer_box.schdule_box .work_shift_box{
+        max-width: 600px;
+        width: 100%;
+    }
+}
+@media only screen and (max-width: 575px){
+    .work_shift_outer_box.work_add_extras {
+        overflow-y: auto;
+        max-height: 830px;
+        height: 100%;
+    }
+    .work_shift_outer_box.add_account_info {
+        max-height: inherit;
+        height: auto;
+    }
+    .add_extras_box .add_drinks_btn{
+        position: relative;
+        margin-bottom: 15px;
+    }
+    .food_item_right .btn_box{
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        text-align: center;
+    }
+    .food_item_left .food_image {
+        width: 50px;
+        height: 50px;
+    }
+    .food_item_right{
+        margin-right: 0;
+    }
+    .food_item_left{
+        gap: 5px;
+        flex-wrap: wrap;
+    }
+    .food_menu_item{
+        padding: 5px;
+    }
+    .food_item_right .btn_box img{
+        width: 14px;
+    }
+    .food_item_left .food_rate,
+    .food_item_left .food_name{
+        font-size: 16px;
+        line-height: 26px;
+    }
+}
+@media only screen and (max-width: 500px){
+    .history-left-image{
+        max-width: 300px;
+    }
+    .visit-block-one{
+        padding: 20px;
+    } 
+    .new-patient-image{
+        max-width: 300px;
+    }
+    .new-patient-image .shape-one{
+        right: -30px;
+        bottom: -10px;
+    }
+    .new-patient-image .shape-two{
+        bottom: 80px;
+        right: 0;
+    }
+    .main_banner.style_two .main_banner_right .banner_image{
+        max-width: 350px;
+    }
+    .analytics_block{
+        width: 100%;
+    }
+    .product_review_box{
+        gap: 10px;
+        flex-wrap: wrap;
+    }
+    .product_image_box{
+        flex-wrap: wrap;
+    }
+    .payment_tag{
+        text-align: left;
+    }
+    .order_lower_box .right_side{
+        flex-wrap: wrap;
+    }
+    .create_account_box #loginForm.signup_form input{
+        padding-left: 20px;
+    }
+    .create_account_box #loginForm.signup_form input:focus{
+        z-index: 99;
+    }
+    .create_account_box #loginForm.signup_form label{
+        z-index: 9;
+    }
+    .history_faq_box h1{
+        font-size: 24px;
+        line-height: 34px;
+    }
+    .account_info_box{
+        padding: 50px 20px;
+    }
+}
+@media only screen and (max-width: 450px){
+    .admin_company_info{
+        display: none;
+    }
+    .admin_panel_outerbox {
+        justify-content: end;
+        padding: 10px;
+    }
+    .order_tracking_box{
+        left: 0px;
+        max-width: inherit;
+        width: auto;
+        border-radius: 20px;
+    }
+    #admin_analysis_chart{
+        height: 145px;
+    }
+    .hide_user_login{
+        margin-top: 40px;
+    }
+    .order_tracking_info_box{
+        left: 20px;
+    }
+    h4.clients_name{
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+    .clients_delivary_location p{
+        font-size: 16px;
+    }
+    .clients_delivary_location h6{
+        padding-bottom: 10px;
+    }
+    .clients_delivary_location{
+        margin-bottom: 20px;
+    }
+    .order_take_loyer_box .drop_order_clients {
+        margin-bottom: 30px;
+        display: block;
+    }
+    .order_take_loyer_box .drop_content_box{
+        margin-bottom: 10px;
+    }
+    .drop_order_clients{
+        display: block;
+    }
+    .drop_content_box{
+        margin-bottom: 10px;
+    }
+    .account_outer_box{
+        padding: 0px 20px;
+    }
+    .account_user_image{
+        width: 100px;
+        height: 100px;
+        padding: 5px;
+    }
+    .contact_info_form{
+        padding: 0 0 5px;
+    }
+}
+@media only screen and (min-width: 320px) and (max-width: 400px){
+    .header_top_inner p{
+        font-size: 12px;
+        font-weight: 700;
+    }
+    .main_banner{
+        padding-top: 135px;
+        padding-bottom: 50px;
+    }    
+    .main_banner .container{
+        padding: 0px 30px;
+    }
+    .page_banner .container{
+        padding: 0;
+    }
+    .main_banner .colmun-image{
+        order: 1;
+        margin-bottom: 40px;
+    }
+    .main_banner_right .banner_image{
+        max-width: 240px;
+        margin: 0 auto;
+    }
+    .main_banner .colmun-content{
+        order: 2;
+        text-align: center;
+    }
+    .main_banner_right .tag{
+        max-width: 130px;
+        padding: 8px 10px;
+        gap: 10px;
+    }
+    .main_banner_right .icon{
+        font-size: 20px;
+    }
+    .main_banner_right .banner_image .shape-two {
+        position: absolute;
+        right: 0;
+        bottom: 30px;
+        z-index: -2;
+    }
+    .main_banner_right .title{
+        font-size: 10px;
+        line-height: 13px;
+        font-weight: 700;
+    }
+    .stay-banner{
+        max-width: 100%;
+        width: 100%;
+        font-size: 15px;
+        line-height: 20px;
+        font-weight: 700;
+    }
+    .stay-banner:before{
+        display: none;
+    }
+    .stay-banner:after{
+        display: none;
+    }
+    .main_banner_left h3{
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .main_banner_left h1{
+        font-size: 38px;
+        line-height: 48px;
+    }
+    .main_banner_left .appointment-btn{
+        margin-bottom: 25px;
+    }
+    .main_banner_left .appointment-btn a{
+        font-size: 14px;
+        line-height: 21px;
+        padding: 7px 30px;
+    }
+    .contact-info-btn a{
+        gap: 8px;
+        justify-content: center;
+    }
+    .contact-info-btn .icon{
+        width: 20px;
+        height: 20px;
+        line-height: 20px;
+    }
+    .contact-info-btn .icon::before{
+        width: 26px;
+        height: 26px;
+        left: -3px;
+        top: -3px;
+        line-height: 26px;
+    }
+    .contact-info-btn .text{
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .features_section{
+        padding: 30px 0px 0px;
+    }
+    .feature-block-one{
+        position: relative;
+        text-align: center;
+        width: 100%;
+        margin-bottom: 40px;
+        display: inline-block;
+    }
+    .feature-block-one .icon-box{
+        display: inline-block;
+        margin-bottom: 12px;
+    }
+    .feature-block-one .feature-content{
+        margin: 0 auto;
+        max-width: 100%;
+    }
+    .features_section .features-title{
+        text-align: center;
+    }
+    .features_section .features-title h3{
+        font-size: 22px;
+        line-height: 32px;
+        font-weight: 700;
+        margin-bottom: 15px;
+    }
+    .feature-block-one .block-title{
+        font-size: 17px;
+        line-height: 22px;
+        font-weight: 600;
+    }
+    .feature-block-one .text{
+        line-height: 18px;
+        font-weight: 500;
+    }
+    .page-title-inner{
+        margin: 0px; 
+    }
+    .page-title-inner .title{
+        margin-right: 0;
+        padding: 55px 0px;
+    }
+    .page-title-inner .bg-layer-1{
+        right: 0;
+    }
+    .history-left-image{
+        max-width: 230px;
+        margin-bottom: 40px;
+    }
+    .history-right-content h2.title{
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .history-right-content p{
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .visit-block-one .title .icon{
+        width: 25px;
+        height: 25px;
+        line-height: 25px;
+    }
+    .visit-block-one .title{
+        gap: 5px;
+        margin-bottom: 5px;
+    }
+    .visit-block-one .title h3,
+    .visit-block-one h4{
+        font-size: 12px;
+        line-height: 15px;
+    }
+    .visit-block-one .button-style-three{
+        font-size: 10px;
+        line-height: 16px;
+        padding: 5px 20px;
+    }
+    .visit-block-one{
+        border-radius: 20px;
+    }
+    .visit-left-block {
+        padding: 20px 0px 2px;
+        background-position: center;
+    }
+    .visit-right-block {
+        padding: 20px 0px 2px;
+        background-position: center;
+    }
+    .history-left-image .shape-bg{
+        right: -30px;
+    }
+    .about-right-image{
+        max-width: 200px;
+    }
+    .about-right-image .about-image{
+        border-radius: 20px;
+    }
+    .section-title-one h2{
+        font-size: 30px;
+        line-height: 37px;
+    }
+    .about-right-image .shape-one{
+        left: -30px;
+        bottom: -10px;
+    }
+    .about-right-image .shape-two {
+        bottom: 50px;
+        left: 0px;
+    }
+    .about_section .about-left-content{
+        padding: 0px 15px;
+    }
+    .section-title-one h2:before{
+        width: 200px;
+        left: calc(50% - 100px);
+    }    
+    .section-title-two h2, 
+    .section-title-one h2{
+        font-size: 30px;
+        line-height: 38px;
+    }
+    .about-left-content p{
+        font-size: 14px;
+        line-height: 21px;
+    }
+    .services-section .section-title-two{
+        text-align: left;
+    }
+    .section-title-two h2:before{
+        width: 100%;
+        left: 0;
+    }
+    .new-patient-image{
+        max-width: 180px;
+    }
+    .new-patients-inner .shape-image{
+        display: none;
+    }
+    .new-patient-image .shape-two{
+        bottom: 55px;
+    }
+    .new-patient-left p{
+        font-size: 14;
+        line-height: 25px;
+    }
+    .page-title-inner .title h1{
+        font-size: 38px;
+        line-height: 47px;
+    }
+    .page_banner.style_three .page-title-inner .bg-layer-2{
+        background-position: center center;
+    }
+    .page-title-inner .title p{
+        font-size: 14px;
+        line-height: 21px;
+    }
+    .policy_statements .section-title-one h2:before{
+        left: 0;
+    }
+    .visit-us.style_two{
+        padding-top: 20px;
+    }
+    .page_banner.style_three .page-title-inner .title{
+        padding: 50px 0px;
+    }
+    .atoz_services{
+        padding: 40px 0px;
+        margin: 60px 15px 0px;
+    }
+    .section-title h2.title{
+        font-size: 30px;
+        line-height: 47px;
+    }
+    .services-tag-list li{
+        display: block;
+        margin: 5px;
+        text-align: left;
+    }
+    .services-tag-list li a{
+        font-size: 14px;
+        line-height: 22px;
+        font-weight: 700;
+        background-color: transparent;
+        border: none;
+        padding: 0px;
+        padding-left: 10px;
+        box-shadow: none;
+    }
+    .section-title p{
+        font-size: 14px;
+        line-height: 21px;
+    }
+    .service-block-two h3{
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .main_banner.style_two .main_banner_right .banner_image{
+        max-width: 280px;
+        margin-bottom: 0;
+    }
+    .main_banner.style_two .main_banner_right .banner_image:before {
+        top: -40px;
+        right: -10px;
+        left: 0;
+    }
+    .stay-banner{
+        margin-bottom: 20px;
+    }
+    .main_banner.style_two .main_banner_left h1{
+        font-size: 38px;
+        line-height: 47px;
+    }
+    .main_banner.style_two .main_banner_left{
+        margin-right: 0;
+    }
+    .main_banner_left p.text{
+        font-size: 14px;
+        line-height: 21px;
+        margin-bottom: 15px;
+    }
+    .main_banner.style_two .shap-union{
+        left: inherit;
+        right: 0;
+        transform: rotate(180deg);
+    }
+    .therapy-block-one .image-box{
+        margin-right: 0;
+    }
+    .therapy-block-one.two .image-box{
+        margin-left: 0;
+    }
+    .therapy-block-one .content-box{
+        margin-top: 20px;
+    }
+    .therapy-block-one .content-box .button_box h5{
+        font-size: 14px;
+        line-height: 27px;
+    }
+    .therapy-block-one .content-box .service-info{
+        padding-left: 17px;
+    }
+    .therapy_section{
+        padding-bottom: 0;
+    }
+    .contact_form_area{
+        padding: 50px 20px;
+    }
+    .contact-social-midea{
+        padding: 50px 20px;
+    }
+    .our_location_image{
+        border-radius: 11px;
+    }
+    .contact-info-block{
+        padding: 25px;
+        margin-bottom: 15px;
+    }
+    .contact-info-block .title-box{
+        max-width: 200px;
+    }
+    .contact-info-block .title-box h3.title{
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .contact-info-block .title-box p{
+        height: auto;
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .contact-info-block .icon-box{
+        width: 45px;
+    }
+    .our_location_section{
+        margin-top: 30px;
+    }
+    .our_location_section .section-title-one h2{
+        margin-bottom: 20px;
+    }
+    .newsletter_innar_box h3{
+        font-size: 22px;
+        line-height: 34px;
+    }
+    .newsletter_section .shape-one{
+        display: none;
+    }
+    .newsletter_section{
+        padding: 60px 0px;
+    }
+    .newsletter_form input{
+        margin-bottom: 15px;
+    }
+    .newsletter_form button{
+        position: relative;
+    }    
+}

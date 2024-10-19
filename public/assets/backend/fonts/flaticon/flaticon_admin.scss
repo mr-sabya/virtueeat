@@ -1,0 +1,361 @@
+$flaticon_admin-font: "flaticon_admin";
+
+@font-face {
+    font-family: $flaticon_admin-font;
+    src: url("./flaticon_admin.ttf?921f6bf44a511930ed7b20fda67b86dc") format("truetype"),
+url("./flaticon_admin.woff?921f6bf44a511930ed7b20fda67b86dc") format("woff"),
+url("./flaticon_admin.woff2?921f6bf44a511930ed7b20fda67b86dc") format("woff2"),
+url("./flaticon_admin.eot?921f6bf44a511930ed7b20fda67b86dc#iefix") format("embedded-opentype"),
+url("./flaticon_admin.svg?921f6bf44a511930ed7b20fda67b86dc#flaticon_admin") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_admin !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon_admin-map: (
+    "home": "\f101",
+    "home-1": "\f102",
+    "time": "\f103",
+    "chart-down": "\f104",
+    "chart-up": "\f105",
+    "add-user": "\f106",
+    "add-friend": "\f107",
+    "add-friend-1": "\f108",
+    "question": "\f109",
+    "map": "\f10a",
+    "clock": "\f10b",
+    "cutlery": "\f10c",
+    "remove": "\f10d",
+    "chat": "\f10e",
+    "phone-receiver-silhouette": "\f10f",
+    "telephone": "\f110",
+    "photo-camera-interface-symbol-for-button": "\f111",
+    "camera": "\f112",
+    "camera-1": "\f113",
+    "right": "\f114",
+    "right-arrow": "\f115",
+    "pencil": "\f116",
+    "check": "\f117",
+    "check-1": "\f118",
+    "tick": "\f119",
+    "loupe": "\f11a",
+    "calendar": "\f11b",
+    "coin": "\f11c",
+    "location": "\f11d",
+    "track": "\f11e",
+    "shopping-bag": "\f11f",
+    "parcel": "\f120",
+    "travel": "\f121",
+    "document": "\f122",
+    "folder": "\f123",
+    "document-1": "\f124",
+    "writing": "\f125",
+    "attach-file": "\f126",
+    "file": "\f127",
+    "file-1": "\f128",
+    "google-docs": "\f129",
+    "note": "\f12a",
+    "paper": "\f12b",
+    "download-file": "\f12c",
+    "document-2": "\f12d",
+    "warning-1": "\f12e",
+    "warning-2": "\f12f",
+    "car": "\f130",
+    "user": "\f131",
+    "user-1": "\f132",
+    "user-2": "\f133",
+    "user-3": "\f134",
+    "user-4": "\f135",
+    "user-5": "\f136",
+    "info": "\f137",
+    "person": "\f138",
+    "account": "\f139",
+    "bank": "\f13a",
+    "bank-1": "\f13b",
+    "museum": "\f13c",
+    "credit-card-filled-back": "\f13d",
+    "plus": "\f13e",
+    "delete": "\f13f",
+    "trash-can": "\f140",
+    "downloads": "\f141",
+    "download": "\f142",
+    "cash": "\f143",
+    "money": "\f144",
+    "menu": "\f145",
+    "menu-1": "\f146",
+    "history": "\f147",
+    "support": "\f148",
+    "support-1": "\f149",
+    "settings": "\f14a",
+    "setting": "\f14b",
+    "delivery-man": "\f14c",
+    "delivery-man-1": "\f14d",
+    "pause": "\f14e",
+    "login": "\f14f",
+    "add-image": "\f150",
+    "left-chevron": "\f151",
+    "left-arrow": "\f152",
+    "globe": "\f153",
+    "internet": "\f154",
+);
+
+.flaticon-home:before {
+    content: map-get($flaticon_admin-map, "home");
+}
+.flaticon-home-1:before {
+    content: map-get($flaticon_admin-map, "home-1");
+}
+.flaticon-time:before {
+    content: map-get($flaticon_admin-map, "time");
+}
+.flaticon-chart-down:before {
+    content: map-get($flaticon_admin-map, "chart-down");
+}
+.flaticon-chart-up:before {
+    content: map-get($flaticon_admin-map, "chart-up");
+}
+.flaticon-add-user:before {
+    content: map-get($flaticon_admin-map, "add-user");
+}
+.flaticon-add-friend:before {
+    content: map-get($flaticon_admin-map, "add-friend");
+}
+.flaticon-add-friend-1:before {
+    content: map-get($flaticon_admin-map, "add-friend-1");
+}
+.flaticon-question:before {
+    content: map-get($flaticon_admin-map, "question");
+}
+.flaticon-map:before {
+    content: map-get($flaticon_admin-map, "map");
+}
+.flaticon-clock:before {
+    content: map-get($flaticon_admin-map, "clock");
+}
+.flaticon-cutlery:before {
+    content: map-get($flaticon_admin-map, "cutlery");
+}
+.flaticon-remove:before {
+    content: map-get($flaticon_admin-map, "remove");
+}
+.flaticon-chat:before {
+    content: map-get($flaticon_admin-map, "chat");
+}
+.flaticon-phone-receiver-silhouette:before {
+    content: map-get($flaticon_admin-map, "phone-receiver-silhouette");
+}
+.flaticon-telephone:before {
+    content: map-get($flaticon_admin-map, "telephone");
+}
+.flaticon-photo-camera-interface-symbol-for-button:before {
+    content: map-get($flaticon_admin-map, "photo-camera-interface-symbol-for-button");
+}
+.flaticon-camera:before {
+    content: map-get($flaticon_admin-map, "camera");
+}
+.flaticon-camera-1:before {
+    content: map-get($flaticon_admin-map, "camera-1");
+}
+.flaticon-right:before {
+    content: map-get($flaticon_admin-map, "right");
+}
+.flaticon-right-arrow:before {
+    content: map-get($flaticon_admin-map, "right-arrow");
+}
+.flaticon-pencil:before {
+    content: map-get($flaticon_admin-map, "pencil");
+}
+.flaticon-check:before {
+    content: map-get($flaticon_admin-map, "check");
+}
+.flaticon-check-1:before {
+    content: map-get($flaticon_admin-map, "check-1");
+}
+.flaticon-tick:before {
+    content: map-get($flaticon_admin-map, "tick");
+}
+.flaticon-loupe:before {
+    content: map-get($flaticon_admin-map, "loupe");
+}
+.flaticon-calendar:before {
+    content: map-get($flaticon_admin-map, "calendar");
+}
+.flaticon-coin:before {
+    content: map-get($flaticon_admin-map, "coin");
+}
+.flaticon-location:before {
+    content: map-get($flaticon_admin-map, "location");
+}
+.flaticon-track:before {
+    content: map-get($flaticon_admin-map, "track");
+}
+.flaticon-shopping-bag:before {
+    content: map-get($flaticon_admin-map, "shopping-bag");
+}
+.flaticon-parcel:before {
+    content: map-get($flaticon_admin-map, "parcel");
+}
+.flaticon-travel:before {
+    content: map-get($flaticon_admin-map, "travel");
+}
+.flaticon-document:before {
+    content: map-get($flaticon_admin-map, "document");
+}
+.flaticon-folder:before {
+    content: map-get($flaticon_admin-map, "folder");
+}
+.flaticon-document-1:before {
+    content: map-get($flaticon_admin-map, "document-1");
+}
+.flaticon-writing:before {
+    content: map-get($flaticon_admin-map, "writing");
+}
+.flaticon-attach-file:before {
+    content: map-get($flaticon_admin-map, "attach-file");
+}
+.flaticon-file:before {
+    content: map-get($flaticon_admin-map, "file");
+}
+.flaticon-file-1:before {
+    content: map-get($flaticon_admin-map, "file-1");
+}
+.flaticon-google-docs:before {
+    content: map-get($flaticon_admin-map, "google-docs");
+}
+.flaticon-note:before {
+    content: map-get($flaticon_admin-map, "note");
+}
+.flaticon-paper:before {
+    content: map-get($flaticon_admin-map, "paper");
+}
+.flaticon-download-file:before {
+    content: map-get($flaticon_admin-map, "download-file");
+}
+.flaticon-document-2:before {
+    content: map-get($flaticon_admin-map, "document-2");
+}
+.flaticon-warning-1:before {
+    content: map-get($flaticon_admin-map, "warning-1");
+}
+.flaticon-warning-2:before {
+    content: map-get($flaticon_admin-map, "warning-2");
+}
+.flaticon-car:before {
+    content: map-get($flaticon_admin-map, "car");
+}
+.flaticon-user:before {
+    content: map-get($flaticon_admin-map, "user");
+}
+.flaticon-user-1:before {
+    content: map-get($flaticon_admin-map, "user-1");
+}
+.flaticon-user-2:before {
+    content: map-get($flaticon_admin-map, "user-2");
+}
+.flaticon-user-3:before {
+    content: map-get($flaticon_admin-map, "user-3");
+}
+.flaticon-user-4:before {
+    content: map-get($flaticon_admin-map, "user-4");
+}
+.flaticon-user-5:before {
+    content: map-get($flaticon_admin-map, "user-5");
+}
+.flaticon-info:before {
+    content: map-get($flaticon_admin-map, "info");
+}
+.flaticon-person:before {
+    content: map-get($flaticon_admin-map, "person");
+}
+.flaticon-account:before {
+    content: map-get($flaticon_admin-map, "account");
+}
+.flaticon-bank:before {
+    content: map-get($flaticon_admin-map, "bank");
+}
+.flaticon-bank-1:before {
+    content: map-get($flaticon_admin-map, "bank-1");
+}
+.flaticon-museum:before {
+    content: map-get($flaticon_admin-map, "museum");
+}
+.flaticon-credit-card-filled-back:before {
+    content: map-get($flaticon_admin-map, "credit-card-filled-back");
+}
+.flaticon-plus:before {
+    content: map-get($flaticon_admin-map, "plus");
+}
+.flaticon-delete:before {
+    content: map-get($flaticon_admin-map, "delete");
+}
+.flaticon-trash-can:before {
+    content: map-get($flaticon_admin-map, "trash-can");
+}
+.flaticon-downloads:before {
+    content: map-get($flaticon_admin-map, "downloads");
+}
+.flaticon-download:before {
+    content: map-get($flaticon_admin-map, "download");
+}
+.flaticon-cash:before {
+    content: map-get($flaticon_admin-map, "cash");
+}
+.flaticon-money:before {
+    content: map-get($flaticon_admin-map, "money");
+}
+.flaticon-menu:before {
+    content: map-get($flaticon_admin-map, "menu");
+}
+.flaticon-menu-1:before {
+    content: map-get($flaticon_admin-map, "menu-1");
+}
+.flaticon-history:before {
+    content: map-get($flaticon_admin-map, "history");
+}
+.flaticon-support:before {
+    content: map-get($flaticon_admin-map, "support");
+}
+.flaticon-support-1:before {
+    content: map-get($flaticon_admin-map, "support-1");
+}
+.flaticon-settings:before {
+    content: map-get($flaticon_admin-map, "settings");
+}
+.flaticon-setting:before {
+    content: map-get($flaticon_admin-map, "setting");
+}
+.flaticon-delivery-man:before {
+    content: map-get($flaticon_admin-map, "delivery-man");
+}
+.flaticon-delivery-man-1:before {
+    content: map-get($flaticon_admin-map, "delivery-man-1");
+}
+.flaticon-pause:before {
+    content: map-get($flaticon_admin-map, "pause");
+}
+.flaticon-login:before {
+    content: map-get($flaticon_admin-map, "login");
+}
+.flaticon-add-image:before {
+    content: map-get($flaticon_admin-map, "add-image");
+}
+.flaticon-left-chevron:before {
+    content: map-get($flaticon_admin-map, "left-chevron");
+}
+.flaticon-left-arrow:before {
+    content: map-get($flaticon_admin-map, "left-arrow");
+}
+.flaticon-globe:before {
+    content: map-get($flaticon_admin-map, "globe");
+}
+.flaticon-internet:before {
+    content: map-get($flaticon_admin-map, "internet");
+}

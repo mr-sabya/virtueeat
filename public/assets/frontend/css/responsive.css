@@ -1,0 +1,464 @@
+@media only screen and (max-width: 1800px) {
+    .dealivary_box_selector #selectorButtons .selector-button{
+        padding: 10px 15px;
+    }
+}
+@media only screen and (max-width: 1477px) {
+    
+}
+@media only screen and (min-width: 1200px) and (max-width: 1400px) {
+    .footer-right-area{
+        margin-left: 0px;
+    }
+    .website_banner h1.banner_title{
+        font-size: 60px;
+        line-height: 70px;
+    }
+    .page-wrapper{
+        padding: 30px;
+    }    
+}
+@media only screen and (max-width: 1400px){
+    .main_banner{
+        padding: 100px;
+    }
+    .banner_content_box{
+        max-width: 100%;
+    }
+    .main_banner .apply_form{
+        position: relative;
+        right: inherit;
+        max-width: 100%;
+    }    
+    .banner_content_box h1.banner_title br{
+        display: none;
+    }
+    .banner_content_box p.banner_text{
+        line-height: 30px;
+        margin-bottom: 40px;
+    }
+    .feature_block_1 .border_box{
+        display: none;
+    }
+    .feature_block_1_title{
+        font-size: 24px;
+        line-height: 36px;
+        margin-bottom: 10px;
+    }
+    .mail_tag_shape{
+        bottom: 60%;
+    }
+    .cause-slider-nav{
+        display: none;
+    }
+    .meal_at_time .slider__pagination{
+        display: none;
+    }
+}
+@media only screen and (max-width: 1300px){
+    .page-wrapper{
+        padding: 20px;
+    }  
+}
+@media only screen and (max-width: 1200px){
+    .search_bar_style_one .search_bar_outer{
+        flex-wrap: wrap;
+    }
+    .search_bar_style_one .search_bar_outer form.search_box,
+    .dealivary_box_selector,
+    .search_bar_style_one .search_bar_outer .cart_box,
+    .search_bar_style_one .location_box{
+        width: 49%;
+    }
+    .search_bar_style_one .location_box,
+    .search_bar_style_one .search_bar_outer .cart_box{
+        border-radius: 40px;
+        padding: 5px;
+    }
+    .dealivary_box_selector #selectorButtons{
+        max-width: 100%;
+    }
+    .search_bar_style_one .search_bar_outer form.search_box #searchIcon,
+    .search_bar_style_one .search_bar_outer .cart_box .cart_icon,
+    .search_bar_style_one .location_box .location_icon{
+        width: 40px;
+        height: 40px;
+    }
+    .search_bar_style_one .search_bar_outer form.search_box #searchIcon{
+        left: 5px;
+        top: 5px;
+    }
+    .search_bar_style_one .search_bar_outer form.search_box input{
+        height: 50px;
+        line-height: 50px;
+    }
+    .dealivary_box_selector #selectorButtons .selector-button{
+        height: 40px;
+        line-height: 20px;
+    }
+}
+/*Medium screen*/
+@media only screen and (max-width: 1199px){
+    .main-menu__wrapper-inner{
+        padding: 5px;
+    }
+    .mobile-nav__wrapper .main-header-one__bottom-right {
+        display: inline-flex;
+        flex-direction: column;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .mobile-nav__wrapper .main-header-one__bottom-right-btn,
+    .mobile-nav__wrapper .main-header-one__bottom-right-language{
+        width: 100%;
+    }
+    .mobile-nav__wrapper .main-header-one__bottom-right-language a{
+        display: block;
+        color: #fff;
+        text-align: left;
+        border-color: #fff;
+    }  
+    .mobile-nav__wrapper .main-header-one__bottom-right-btn a{
+        display: block;
+        color: #fff;
+        border-color: #fff;
+    }  
+}
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .container{
+        padding: 0;
+    }
+    .footer-right-area{
+        margin-left: 0;
+    }
+    .website_banner h1.banner_title{
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .search_section{
+        padding-bottom: 150px;
+    }
+    .main-header{
+        border-radius: 0;
+    }
+    .main_footer{
+        padding: 50px 30px 30px;
+    }
+    .footer-widget-links{
+        gap: 30px;
+    }
+    .main_footer .footer-bottom-right{
+        gap: 20px;
+    }
+    .website_banner h1.banner_title br{
+        display: none;
+    }    
+}
+
+/*Tablet Layout*/
+@media only screen and (max-width: 1000px) {
+    .search_map_location #sidebar{
+        margin-bottom: 40px;
+    }
+    .search_map_location .map_location_outer{
+        flex-wrap: wrap;
+        max-height: none;
+    }
+    .search-style-one form.search_box #clearInput{
+        right: 15px;
+    }
+    .search-style-one form.search_box #searchIcon{
+        left: 20px;
+    }
+    .banner_content_box h1.banner_title{
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .section_title h1{
+        font-size: 36px;
+        line-height: 46px;
+    }
+}
+@media only screen and (max-width: 991px) {
+    .filter_box .filter_box_outer{
+        margin-right: 0;
+    }
+    #filter_box_one{
+        width: 35%;
+    }
+    #filter_box_one .dropdown-content{
+        width: 350px;
+    }
+    .filter_block_box .amount_list .amount{
+        padding: 15px 20px;
+    }
+    .container {
+        padding: 0px 30px;
+    }
+    .main-header{
+        border-radius: 0;
+    }
+    .footer-right-area{
+        margin-left: 0;
+    }
+    .our-company-info{
+        margin-bottom: 40px;
+    }
+    .main_footer .footer-bottom-right{
+        padding-top: 40px;
+    }
+    .search_section{
+        padding-bottom: 120px;
+    }
+    .website_banner h1.banner_title{
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .website_banner h1.banner_title img{
+        transform: 80px;
+    }
+    .website_banner h1.banner_title br{
+        display: none;
+    }    
+    .help_menu_outer_box{
+        margin-left: 0;
+    }
+}
+
+/*Mobile Layout*/
+@media only screen and (max-width: 767px) {
+    .page-wrapper{
+        padding: 20px;
+        border-radius: 0;
+    }
+    .main-header{
+        border-radius: 0;
+    }
+    .container {
+        padding: 0px;
+    }
+    .footer-right-area{
+        margin-left: 0;
+    }
+    .our-company-info{
+        margin-bottom: 40px;
+    }
+    .search_section{
+        padding-bottom: 100px;
+    }
+    .website_banner h1.banner_title{
+        font-size: 30px;
+        line-height: 36px;
+    }
+    .website_banner h1.banner_title img{
+        width: 60px;
+    }
+    .footer-widget-links{
+        gap: 20px;
+    }
+    .main_footer{
+        border-radius: 0;
+        padding: 50px 25px 30px;
+    }
+    .main-header-one__bottom-right{
+        display: none;
+    }
+    .website_banner h1.banner_title br{
+        display: none;
+    }
+    .main_footer .footer-bottom-right{
+        padding-top: 40px;
+        gap: 20px;
+    }
+    .search_box_title{
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .search_section{
+        padding-bottom: 50px;
+    }
+    .main-menu__wrapper-inner{
+        padding: 10px;
+    }
+    .wallet_menu_page .outer_box,
+    .wallet_menu_page .balance_outer_box,
+    .reset_password_box,
+    .invite_outer_box,
+    .favorite_menu_page .outer_box,
+    .completed_menu_page .outer_box{
+        padding: 50px 30px;
+    }
+    .error_page_outer h1{
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .order_empty_page p,
+    .error_page_outer p{
+        font-size: 16px;
+        line-height: 26px;
+    }    
+    .help_menu_outer_box{
+        margin-left: 0;
+    }
+    .invite_outer_box a{
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .verification_outer_box h3 br{
+        display: none;
+    }
+    .restaurant_location_box h2.restaurant_name{
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .wallet_menu_page .outer_box p{
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .wallet_menu_page .outer_box p br{
+        display: none;
+    }
+    .wallet_menu_page .payment_outer_box h1{
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .mail_tag_shape{
+        display: none;
+    }
+    .search_bar_style_one .search_bar_outer form.search_box,
+    .dealivary_box_selector,
+    .search_bar_style_one .search_bar_outer .cart_box,
+    .search_bar_style_one .location_box{
+        width: 100%;
+        border-radius: 40px;
+    }
+    #filter_box_one{
+        width: 45%;
+    }
+    #filter_box_one:last-child .dropdown-content{
+        width: 280px;
+    }
+}
+
+@media only screen and (max-width: 550px){
+    .footer-widget-links{
+        display: block;
+    }
+    .main_footer .copyright{
+        margin-bottom: 10px;
+    }
+    .main_footer .footer-bottom-right{
+        display: block;
+    }
+    .main_footer{
+        padding: 30px 20px;
+    }
+    .checkout_right_side,
+    .checkout_left_side{
+        padding: 50px 30px;
+    }
+    .checkout_left_side .details_data_left{
+        margin-bottom: 10px;
+    }
+    .search_bar_style_one .search_bar_outer .cart_box_outer{
+        min-width: 280px;
+    }
+    .search_bar_style_one .search_bar_outer .cart_box .cart_box_outer .go_to_checkout a.theme-btn-two{
+        padding: 10px 20px;
+    }
+    .page-wrapper{
+        padding: 15px;
+    }
+    .dealivary_box_selector,
+    .search_bar_style_one .search_bar_outer form.search_box{
+        padding: 0;
+    }
+    .search_bar_style_one .search_bar_outer form.search_box input, 
+    .dealivary_box_selector #selectorButtons,
+    .search_bar_style_one .search_bar_outer .cart_box, 
+    .search_bar_style_one .location_box{
+        border-radius: 0;
+    }
+    .offer_section .title_box{
+        margin-right: 0;
+    }
+    .offer_section h3.section_title,
+    .restaurant_banner .restaurant_banner_title h3.restaurant_name a{
+        font-size: 24px;
+        line-height: 36px;
+    }
+    .restaurant_banner .restaurant_banner_title .restaurant_schedule_time,
+    .restaurant_banner .restaurant_banner_title .restaurant_about li{
+        padding: 5px 10px;
+    }
+    .product_slide .owl-nav{
+        display: none;
+    }
+    #filter_box_one{
+        width: 100%;
+    }
+    #filter_box_one button{
+        padding: 5px 20px; 
+        height: 50px;
+        font-size: 14px;
+        line-height: 40px;
+    }
+    #filter_box_one .dropdown-content{
+        left: 0;
+        right: inherit;
+        width: 100%;
+    }
+    .foods_banner_section .foods_banner{
+        border-radius: 10px;
+    }
+    .foods_banner .foods_banner_right{
+        order: 1;
+    }
+    .foods_banner .foods_banner_left{
+        order: 2;
+    }
+    .foods_banner_three .foods_box,
+    .foods_banner_two .foods_box,
+    .foods_banner_one .foods_box{
+        border-radius: 10px;
+    }
+    .nice-select,
+    .search_section .form-group button,
+    .search_section #locationInput {
+        height: 50px;
+        line-height: 40px;
+        padding: 5px;
+        padding-left: 50px;
+    }
+    #searchIcon{
+        top: 5px;
+        left: 5px;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+    }
+    .nice-select{
+        padding-left: 20px;
+    }
+    .search_section .form-group button{
+        padding: 5px;
+    }
+    .search_section .form-group{
+        margin-bottom: 15px;
+    }
+}
+@media only screen and (max-width: 400px){
+    .foods_banner_section .foods_banner {
+        display: inline-flex;
+        align-items: start;
+        flex-direction: column;
+    }
+    .foods_banner .foods_banner_left{
+        padding-left: 0;
+    }
+    .foods_banner .foods_box{
+        text-align: left;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}

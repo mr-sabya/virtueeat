@@ -1,0 +1,346 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon/icomoon.eot?44ernl');
+  src:  url('../fonts/icomoon/icomoon.eot?44ernl#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon/icomoon.ttf?44ernl') format('truetype'),
+    url('../fonts/icomoon/icomoon.woff?44ernl') format('woff'),
+    url('../fonts/icomoon/icomoon.svg?44ernl#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Group-2474:before {
+  content: "\e900";
+}
+.icon-icons:before {
+  content: "\e901";
+}
+.icon-1:before {
+  content: "\e902";
+}
+.icon-message_square_icon:before {
+  content: "\e903";
+}
+.icon-arrow-down:before {
+  content: "\e904";
+}
+.icon-chevron-left:before {
+  content: "\e905";
+}
+.icon-Fill:before {
+  content: "\e906";
+}
+.icon-globe-alt:before {
+  content: "\e907";
+}
+.icon-Group-29:before {
+  content: "\e908";
+}
+.icon-Group-36:before {
+  content: "\e909";
+}
+.icon-Group-37:before {
+  content: "\e90a";
+}
+.icon-Group-40:before {
+  content: "\e90b";
+}
+.icon-Group-48:before {
+  content: "\e90c";
+}
+.icon-Group-52:before {
+  content: "\e90d";
+}
+.icon-Group-53:before {
+  content: "\e90e";
+}
+.icon-Group-55:before {
+  content: "\e90f";
+}
+.icon-Group-58:before {
+  content: "\e910";
+}
+.icon-Group-59:before {
+  content: "\e911";
+}
+.icon-Group-60:before {
+  content: "\e912";
+}
+.icon-Group-65:before {
+  content: "\e913";
+}
+.icon-Group-66:before {
+  content: "\e914";
+}
+.icon-Group-67:before {
+  content: "\e915";
+}
+.icon-Group-73:before {
+  content: "\e916";
+}
+.icon-Group-113:before {
+  content: "\e917";
+}
+.icon-Group-126:before {
+  content: "\e918";
+}
+.icon-Group-137:before {
+  content: "\e919";
+}
+.icon-Group-146:before {
+  content: "\e91a";
+}
+.icon-Group-162:before {
+  content: "\e91b";
+}
+.icon-Group-163:before {
+  content: "\e91c";
+}
+.icon-Group-174:before {
+  content: "\e91d";
+}
+.icon-Group-175:before {
+  content: "\e91e";
+}
+.icon-Group-2472:before {
+  content: "\e91f";
+}
+.icon-Group-2473:before {
+  content: "\e920";
+}
+.icon-Group-2479:before {
+  content: "\e921";
+}
+.icon-Group-2485:before {
+  content: "\e922";
+}
+.icon-Group-2509:before {
+  content: "\e923";
+}
+.icon-Group-2519:before {
+  content: "\e924";
+}
+.icon-Group-2520:before {
+  content: "\e925";
+}
+.icon-Group-2558:before {
+  content: "\e926";
+}
+.icon-Group-2559:before {
+  content: "\e927";
+}
+.icon-Group-2560:before {
+  content: "\e928";
+}
+.icon-Group-2573:before {
+  content: "\e929";
+}
+.icon-Group-2619:before {
+  content: "\e92a";
+}
+.icon-Group-2623:before {
+  content: "\e92b";
+}
+.icon-Group-2634:before {
+  content: "\e92c";
+}
+.icon-Group-2699:before {
+  content: "\e92d";
+}
+.icon-Group-2703:before {
+  content: "\e92e";
+}
+.icon-Group-13523:before {
+  content: "\e92f";
+  color: #012348;
+}
+.icon-Group-13563:before {
+  content: "\e930";
+}
+.icon-Group-13564:before {
+  content: "\e931";
+}
+.icon-Group-13565:before {
+  content: "\e932";
+}
+.icon-Group-13566:before {
+  content: "\e933";
+}
+.icon-Group-13567:before {
+  content: "\e934";
+}
+.icon-Group-13603:before {
+  content: "\e935";
+  color: #012348;
+}
+.icon-Group-13604:before {
+  content: "\e936";
+}
+.icon-Group-13605:before {
+  content: "\e937";
+}
+.icon-ic_language_24px:before {
+  content: "\e938";
+}
+.icon-icons1:before {
+  content: "\e939";
+}
+.icon-Layer-2:before {
+  content: "\e93a";
+}
+.icon-Layer-15:before {
+  content: "\e93b";
+}
+.icon-Menu:before {
+  content: "\e93c";
+}
+.icon-Page-1:before {
+  content: "\e93d";
+}
+.icon-Path-1412:before {
+  content: "\e93e";
+}
+.icon-Path-1413:before {
+  content: "\e93f";
+}
+.icon-Path-1415:before {
+  content: "\e940";
+}
+.icon-Path-1422:before {
+  content: "\e941";
+}
+.icon-Path-1430:before {
+  content: "\e942";
+}
+.icon-Path-1435:before {
+  content: "\e943";
+}
+.icon-Path-1438:before {
+  content: "\e944";
+}
+.icon-Path-1439:before {
+  content: "\e945";
+}
+.icon-Path-1442:before {
+  content: "\e946";
+}
+.icon-Path-1446:before {
+  content: "\e947";
+}
+.icon-Path-1450:before {
+  content: "\e948";
+}
+.icon-Path-1488:before {
+  content: "\e949";
+}
+.icon-Path-1706:before {
+  content: "\e94a";
+}
+.icon-Path-1707:before {
+  content: "\e94b";
+}
+.icon-Path-1708:before {
+  content: "\e94c";
+}
+.icon-Path-1728:before {
+  content: "\e94d";
+}
+.icon-Path-1736:before {
+  content: "\e94e";
+}
+.icon-Path-1737:before {
+  content: "\e94f";
+}
+.icon-Path-1740:before {
+  content: "\e950";
+}
+.icon-Path-1741:before {
+  content: "\e951";
+}
+.icon-Path-1742:before {
+  content: "\e952";
+}
+.icon-Path-1747:before {
+  content: "\e953";
+}
+.icon-Path-1776:before {
+  content: "\e954";
+}
+.icon-Path-1777:before {
+  content: "\e955";
+}
+.icon-Path-1790:before {
+  content: "\e956";
+}
+.icon-Path-1799:before {
+  content: "\e957";
+}
+.icon-Path-12019:before {
+  content: "\e958";
+}
+.icon-Path-38789:before {
+  content: "\e959";
+}
+.icon-Path-38805:before {
+  content: "\e95a";
+}
+.icon-Path-38806:before {
+  content: "\e95b";
+}
+.icon-Path-38808:before {
+  content: "\e95c";
+}
+.icon-Path-38813:before {
+  content: "\e95d";
+  color: #012348;
+}
+.icon-Path-39687:before {
+  content: "\e95e";
+  color: #012348;
+}
+.icon-Repeat-Grid-2:before {
+  content: "\e95f";
+}
+.icon-vuesax-bold-arrow-down:before {
+  content: "\e960";
+}
+.icon-vuesax-bold-car:before {
+  content: "\e961";
+}
+.icon-vuesax-bold-card:before {
+  content: "\e962";
+}
+.icon-vuesax-bold-document-text:before {
+  content: "\e963";
+}
+.icon-vuesax-bold-gallery-add:before {
+  content: "\e964";
+}
+.icon-vuesax-bold-login:before {
+  content: "\e965";
+}
+.icon-vuesax-bold-play:before {
+  content: "\e966";
+}
+.icon-vuesax-bold-sms:before {
+  content: "\e967";
+}
+.icon-vuesax-bold-user:before {
+  content: "\e968";
+}

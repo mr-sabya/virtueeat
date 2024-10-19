@@ -1,0 +1,19 @@
+.menu-box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.close_cart_btn{
+    text-align: right;
+}
+
+.close_cart_btn img{
+    width: 20px;
+}
+
+.cart_title_box .outer_title,
+.cart_title_box .count_cart{
+    font-size: 24px !important;
+}

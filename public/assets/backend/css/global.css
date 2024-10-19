@@ -1,0 +1,171 @@
+/***Defult CSS***/
+:root{
+    --theme-color: #FF8E01;
+}
+.theme_color{
+    color: var(--theme-color);
+}
+.white_color{
+    color: #ffffff;
+}
+.gray_color{
+    color: #fafafa;
+}
+.gray_color_2{
+    color: #F7F7F7;
+}
+.black_color{
+    color: #000000;
+}
+.theme_color_2{
+    color: #00275B;
+}
+
+* {
+    margin:0px;
+    padding:0px;
+    border:none;
+    outline:none;
+}  
+body {
+    font-size:16px;    
+    line-height:26px;
+    font-weight:500;
+    background-size:cover;
+    font-style: normal;
+    font-family: "Montserrat";
+    background-repeat:no-repeat;
+    background-position:center top;
+    -webkit-font-smoothing: antialiased;
+}
+.boxed_wrapper {
+    position: relative;
+    overflow-x: hidden;
+    margin: 0 auto;
+    width: 100%;
+    min-width: 300px;
+    height: 100%;
+    background-color: #fafafa;    
+}
+.container-fulid{
+    max-width: 1920px;
+    width: 100%;
+    margin: 0 auto;
+}
+.container{
+    max-width: 1200px;
+    width: 100%;
+}
+a{
+    text-decoration:none;
+    transition:all 500ms ease;
+    -moz-transition:all 500ms ease;
+    -webkit-transition:all 500ms ease;
+    -ms-transition:all 500ms ease;
+    -o-transition:all 500ms ease;
+}  
+a:hover{
+    text-decoration:none;
+    outline:none;
+}  
+input,button,select,textarea{
+    font-weight: 400;
+    font-size: 14px;
+    background: transparent;
+}  
+::-webkit-input-placeholder {
+    color: inherit;
+}  
+::-moz-input-placeholder {
+    color: inherit;
+}  
+::-ms-input-placeholder {
+    color: inherit;
+}
+ul,li{
+    list-style:none;
+    padding:0px;
+    margin:0px; 
+}
+button:focus,
+input:focus,
+textarea:focus{
+    outline: none;
+    box-shadow: none;
+}  
+p{  
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    margin: 0;
+    color: var(--primary-color);
+    font-family: var(--primary-font);
+}  
+h1,h2,h3,h4,h5,h6{
+    margin: 0;
+    font-weight: 500;
+}
+h6{
+    font-size: 18px;
+    line-height: 28px;
+}
+.centred{
+    text-align: center;
+}  
+.pull-left{
+    float: left;
+}  
+.pull-right{
+    float: right;
+}
+figure{
+    margin: 0px;
+}
+img {
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
+    transition-delay: .1s;
+    transition-timing-function: ease-in-out;
+    transition-duration: .7s;
+    transition-property: all;
+}
+
+/** Defult Form **/
+.form-group{
+    position: relative;
+    display: block;
+    margin-bottom: 15px;
+}  
+.form-group input,
+.form-group textarea{
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 50px;
+    font-size: 16px;
+    border-radius: 40px;
+    padding: 0px 25px;
+    line-height: 50px;
+    font-weight: 500;
+    color: rgb(0 0 0 / 50%);
+    background-color: #FFFFFF;
+    border-color: #F7F7F7;
+    text-transform: capitalize;
+    transition:all 500ms ease;
+    -moz-transition:all 500ms ease;
+    -webkit-transition:all 500ms ease;
+    -ms-transition:all 500ms ease;
+    -o-transition:all 500ms ease;
+}  
+.form-group textarea{
+    height: 130px;
+    resize: none;
+}  
+.form-group input:focus,
+.form-group textarea:focus{
+    box-shadow: none;
+    border-color: var(--theme-color);
+}
+/** End Defult Form **/
