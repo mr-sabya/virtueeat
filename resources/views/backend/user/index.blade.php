@@ -1,4 +1,7 @@
-@extends('layouts.admin')
+@extends('backend.layouts.app')
+
+@section('title', 'Users')
+
 @section('content')
 <div class="text_info_title_box style_2">
     <h1 class="sec_title">User</h1>

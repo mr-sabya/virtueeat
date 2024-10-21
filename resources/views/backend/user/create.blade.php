@@ -1,4 +1,4 @@
-@extends('layouts.admin')
+@extends('backend.layouts.app')
 
 @section('title', 'Add User')
 

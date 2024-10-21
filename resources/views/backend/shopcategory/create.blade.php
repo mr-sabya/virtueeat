@@ -1,4 +1,12 @@
-@extends('layouts.admin')
+@extends('backend.layouts.app')
+
+
+@section('title')
+{{ isset($item) ? 'Edit' : 'Add' }} Shp Category
+@endsection
+
+
+
 @section('content')
 <a href="{{ url()->previous() }}">
     <div class="come_to_back_btn"><span class="icon-Path-1777"></span>Back</div>

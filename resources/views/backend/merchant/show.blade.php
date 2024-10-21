@@ -1,4 +1,7 @@
-@extends('layouts.admin')
+@extends('backend.layouts.app')
+
+@section('title', 'Merchant')
+
 @section('content')
 <div class="work_shift_outer_box style_2">
     <div class="analytics_outer_box">

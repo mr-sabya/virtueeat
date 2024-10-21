@@ -1,4 +1,7 @@
 @extends('layouts.admin')
+
+@section('title', 'Customer')
+
 @section('content')
 <div class="text_info_title_box style_2">
     <h1 class="sec_title">{{ $title }}</h1>

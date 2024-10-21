@@ -1,4 +1,10 @@
 @extends('layouts.admin')
+
+@section('title')
+{{ isset($item) ? 'Edit' : 'Add' }} Dietary
+@endsection
+
+
 @section('content')
     <a href="{{ url()->previous() }}">
         <div class="come_to_back_btn"><span class="icon-Path-1777"></span>Back</div>

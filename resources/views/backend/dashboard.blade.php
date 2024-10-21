@@ -1,4 +1,4 @@
-@extends('layouts.admin')
+@extends('backend.layouts.app')
 
 @section('title', 'Dashboard')
 
@@ -22,12 +22,12 @@
                 <div class="icon_box"><i class="flaticon-parcel"></i></div>
             </div>
         </div>
-        <div class="chart_outer_box">
+        <div class="chart_outer_box d-flex">
             <div class="chart_image">
-                <img src="images/resource/project_chart_1.jpg" alt="">
+                <img src="{{ url('assets/backend/images/resource/project_chart_1.jpg') }}" alt="">
             </div>
             <div class="chart_image">
-                <img src="images/resource/project_chart_2.jpg" alt="">
+                <img src="{{ url('assets/backend/images/resource/project_chart_2.jpg') }}" alt="">
             </div>
         </div>
     </div>
